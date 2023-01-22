@@ -1,4 +1,6 @@
 Wanna see how final version of #webGISapp looks like ?
+https://lnkd.in/dgU_bC79
+
 Check this out the final version of #WEBGIS #App. We have used all the open source planforms to make this app so you all can do it too.
 1. Layers are hosted in #geoserver.
 2. #Openlayers library is used (v6) and #Openlayers_switcher.
@@ -9,7 +11,7 @@ Check this out the final version of #WEBGIS #App. We have used all the open sour
 7. App was hosted on local server backed by #POSTGIS/#POSTGRESQL Database.
 
 
-
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7020879479883325440" height="815" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 
 #data #environmental #transportation #data #transportation #environmental #spatialox #spatialdata #gisday2022 #GIS #gisanalyst #gismapping #gisapplication #remotesensing #remoteservices #geoinformatics #precisionagriculture #roadmap #satelliteimagery #esri #esripartner #maptitude #freelancedeveloper #elevationdesign #dataanalytics #dronetech #dronesurveying #dronemapping #dronesurvey #dronetechnology #sql #python #Arcgis #gps #database #projectmanagement #geology #digital #autocad #australia #opensource
