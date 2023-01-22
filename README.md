@@ -10,6 +10,6 @@ Check this out the final version of #WEBGIS #App. We have used all the open sour
 7. App was hosted on local server backed by #POSTGIS/#POSTGRESQL Database.
 
 
-![spectra_screenshot](../master/boundary/layout.png)
+![spectra_screenshot](https://github.com/mhwahla/AU_SOIL_WEBAPP/blob/main/boundary/layout.png)
 
 #data #environmental #transportation #data #transportation #environmental #spatialox #spatialdata #gisday2022 #GIS #gisanalyst #gismapping #gisapplication #remotesensing #remoteservices #geoinformatics #precisionagriculture #roadmap #satelliteimagery #esri #esripartner #maptitude #freelancedeveloper #elevationdesign #dataanalytics #dronetech #dronesurveying #dronemapping #dronesurvey #dronetechnology #sql #python #Arcgis #gps #database #projectmanagement #geology #digital #autocad #australia #opensource
