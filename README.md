@@ -9,6 +9,7 @@ Check this out the final version of #WEBGIS #App. We have used all the open sour
 6. #WMTS was #AGOL base map and topographic map.
 7. App was hosted on local server backed by #POSTGIS/#POSTGRESQL Database.
 
+Click this link to view Video Screen Capture (https://drive.google.com/file/d/15W2snyP8X2VCxXL6GzPZPu1dlXhEseAW/view?usp=sharing)
 
 ![spectra_screenshot](https://github.com/mhwahla/AU_SOIL_WEBAPP/blob/main/boundary/layout.png)
 
